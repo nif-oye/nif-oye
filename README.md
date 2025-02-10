@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwanifemi!
-- 👀 I’m interested in game development, XR, and HCI
+- 👀 I’m currently exloring the world of game development, XR, and HCI
 - 🌱 I’m currently learning to develop games in Unity, including VR experiences
 - 💞️ I’m looking to collaborate on fun projects related to my interests
 - 📫 How to reach me - oluwanifemi.dev@gmail.com
